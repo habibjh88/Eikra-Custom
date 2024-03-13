@@ -1,0 +1,29 @@
+/*
+Template:       eikra
+Theme Name:     Eikra Child Theme
+Theme URI:      https://themeforest.net/item/eikra-education-wordpress-theme/20950897
+Author:         RadiusTheme
+Author URI:     http://radiustheme.com
+Description:    Eikra is a clean and modern theme for all kinds of Education and Learning Institute.
+Version:        1.0
+Tags: left-sidebar, right-sidebar, custom-background, custom-colors, custom-header, custom-menu, translation-ready
+License: Envato split License
+License URI: https://themeforest.net/licenses/terms/regular
+*/
+
+.mfp-wrap {
+    z-index: 999999 !important;
+}
+
+img.mfp-img {
+    max-height: 860px !important;
+}
+
+.woocommerce form .form-row input[type=file] {
+    padding-left:0;
+}
+
+.woocommerce form .form-row label.d-block {
+    width: 100%;
+    padding-top: 20px;
+}
